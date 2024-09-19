@@ -6,9 +6,9 @@ Terminal - Alacritty
 
 AI inference - Ollama
 
-Editor - nvim
+Editor - nvim, Cursor
 
-Messaging - Signal
+Messaging - Signal, SimpleX
 
 Password Manager - Bitwarden
 
@@ -20,7 +20,7 @@ Screencast - OBS
 
 Bitcoin wallet - Wasabi wallet
 
-Image editing - Gimp
+Image editing - Dingboard, Gimp
 
 Documents - Libre Office
 
@@ -56,6 +56,6 @@ Notes - Obsidian
 
 Browsers - Firefox Nightly, Brave, Arc
 
-Memes - Dingboard
 Spotlight - Raycast
+
 Transcription - Superwhisper
