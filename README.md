@@ -1,5 +1,9 @@
 # My Stack
 
+OS - MacOS
+
+Shell - zsh
+
 ### Open Source
 
 Terminal - Alacritty
@@ -26,6 +30,16 @@ Documents - Libre Office
 
 Clipboard - Clipy
 
+Booking - cal.com
+
+Agent - Open Interpreter
+
+Documents/Spreadsheets/Presentations - LibreOffice
+
+LLM Inference - Ollama, Llamafile, Jan
+
+3D Slicer - PrusaSlicer
+
 ### Unix utilities
 
 bat => replaces cat
@@ -40,7 +54,7 @@ tmux => terminal multiplexer
 
 zoxide => replaces cd
 
-starship => prompt customizer
+starship => shell prompt customizer
 
 bws => secrets
 
@@ -50,12 +64,27 @@ tldr => manpages but examples
 
 jq => json
 
+### Browser Plugins
+
+uBlock Origin
+
+BitWarden
+
+SimpleLogin
+
+
 ### Other
 
 Notes - Obsidian
 
-Browsers - Firefox Nightly, Brave, Arc
+Browsers - Firefox Nightly, Brave, Arc, Tor
 
 Spotlight - Raycast
 
 Transcription - Superwhisper
+
+### Gadgets
+
+Wireless Pen Testing - Flipper Zero
+
+Transcriber - open source FRIEND
