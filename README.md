@@ -28,6 +28,7 @@ bws => secrets
 ripgrep => fast grep
 tldr => manpages but examples
 jq => json
+wtf => corrects errors in console commands
 
 ### Other
 
