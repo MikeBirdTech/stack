@@ -1,5 +1,7 @@
 # My Stack
 
+> If you use a different tool and think I should try it, please open a PR :)
+
 OS - MacOS
 
 Shell - zsh
