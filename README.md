@@ -10,8 +10,6 @@ Shell - zsh
 
 Terminal - Alacritty
 
-AI inference - Ollama
-
 Editor - nvim, Cursor
 
 Messaging - Signal, SimpleX
@@ -44,28 +42,28 @@ LLM Inference - Ollama, Llamafile, Jan
 
 ### Unix utilities
 
-bat => replaces cat
+[Atuin](https://github.com/atuinsh/atuin) => replaces history
 
-atuin => replaces history
+[bat](https://github.com/sharkdp/bat) => replaces cat
 
-fzf => fuzzy search
+[eza](https://github.com/eza-community/eza) => ls replacement
 
-eza => ls replacement
+[fzf](https://github.com/junegunn/fzf) => fuzzy search
 
-tmux => terminal multiplexer
+[jq](https://github.com/jqlang/jq) => json
 
-zoxide => replaces cd
+[ripgrep](https://github.com/BurntSushi/ripgrep) => fast grep
 
-starship => shell prompt customizer
+[starship](https://github.com/starship/starship) => shell prompt customizer
 
-bws => secrets
+[tldr](https://github.com/tldr-pages/tldr) => manpages but examples
 
-ripgrep => fast grep
+[tmux](https://github.com/tmux/tmux) => terminal multiplexer
 
-tldr => manpages but examples
+[wtf](https://github.com/OpenInterpreter/open-interpreter) => corrects errors in console commands
 
-jq => json
-wtf => corrects errors in console commands
+[zoxide](https://github.com/ajeetdsouza/zoxide) => replaces cd
+
 
 ### Browser Plugins
 
@@ -81,6 +79,8 @@ SimpleLogin
 Notes - Obsidian
 
 Browsers - Firefox Nightly, Brave, Arc, Tor
+
+bws => secrets
 
 Spotlight - Raycast
 
