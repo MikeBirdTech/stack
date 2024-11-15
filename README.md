@@ -22,11 +22,7 @@ VPN - Proton
 
 Screencast - OBS
 
-Bitcoin wallet - Wasabi wallet
-
 Image editing - Dingboard, Gimp
-
-Documents - Libre Office
 
 Clipboard - Clipy
 
@@ -37,6 +33,8 @@ Agent - Open Interpreter
 Documents/Spreadsheets/Presentations - LibreOffice
 
 LLM Inference - Ollama, Llamafile, Jan
+
+Bitcoin wallet - Wasabi wallet
 
 3D Slicer - PrusaSlicer
 
@@ -80,7 +78,7 @@ Notes - Obsidian
 
 Browsers - Firefox Nightly, Brave, Arc, Tor
 
-bws => secrets
+Secrets => BWS
 
 Spotlight - Raycast
 
