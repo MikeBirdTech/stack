@@ -2,11 +2,12 @@
 
 > If you use a different tool and think I should try it, please open a PR :)
 
-OS - MacOS
+## Platform
+Operating System - MacOS
 
 Shell - zsh
 
-### Open Source
+## Open Source
 
 Terminal - Alacritty
 
@@ -38,7 +39,7 @@ Bitcoin wallet - Wasabi wallet
 
 3D Slicer - PrusaSlicer
 
-### Unix utilities
+## Unix utilities
 
 [Atuin](https://github.com/atuinsh/atuin) => replaces history
 
@@ -63,7 +64,7 @@ Bitcoin wallet - Wasabi wallet
 [zoxide](https://github.com/ajeetdsouza/zoxide) => replaces cd
 
 
-### Browser Plugins
+## Browser Plugins
 
 uBlock Origin
 
@@ -72,7 +73,7 @@ BitWarden
 SimpleLogin
 
 
-### Other
+## Other
 
 Notes - Obsidian
 
@@ -84,7 +85,7 @@ Spotlight - Raycast
 
 Transcription - Superwhisper
 
-### Gadgets
+## Gadgets
 
 Wireless Pen Testing - Flipper Zero
 
