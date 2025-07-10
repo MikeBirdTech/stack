@@ -63,6 +63,8 @@ Bitcoin wallet - Wasabi wallet
 
 [zoxide](https://github.com/ajeetdsouza/zoxide) => replaces cd
 
+[delta](https://github.com/dandavison/delta) => improved git diff
+
 
 ## Browser Plugins
 
